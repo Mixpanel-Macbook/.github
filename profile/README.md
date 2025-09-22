@@ -1,4 +1,4 @@
-# Mixpanel MacOS — Desktop Analytics  
+# Mixpanel Mac — Desktop Analytics  
 ![logo](https://cdn-1.webcatalog.io/catalog/mixpanel/mixpanel-icon-filled-256.png?v=1714775156470)
 
 Mixpanel for Mac provides a **professional desktop platform for product analytics and user insights** on MacOS. Track user behavior, analyze data, and visualize trends directly from your Mac desktop. Follow the instructions below to get started today. 📊  
